@@ -15,6 +15,6 @@
 ##Ended vote
 ![ended_vote](https://user-images.githubusercontent.com/46681477/134268838-9bfac24f-2e42-4b15-969c-24b457f2d966.png)
 
-##Technnologies
+##Technologies
 
 ✔HTLM5 ✔CSS3 ✔JAVASCRIPT
